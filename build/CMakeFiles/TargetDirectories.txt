@@ -1,0 +1,3 @@
+/Users/petermaltzoff/Documents/programming/go-plus-plus/build/CMakeFiles/go-plus-plus.dir
+/Users/petermaltzoff/Documents/programming/go-plus-plus/build/CMakeFiles/edit_cache.dir
+/Users/petermaltzoff/Documents/programming/go-plus-plus/build/CMakeFiles/rebuild_cache.dir
